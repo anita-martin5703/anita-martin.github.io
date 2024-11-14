@@ -1,0 +1,39 @@
+﻿/* External Style Sheet*/
+.topnav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #581845;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ li a:hover {
+    background-color: #FFC30F;
+}
+
+body{
+    background-color:#900F3F;
+    color:navajowhite;
+    margin:1.6px;
+}
+
+
+
